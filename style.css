@@ -1,0 +1,33 @@
+body{
+    background-color: #083B4C;
+    color: white;
+    text-align: center;
+}
+h1{
+    margin: 30px;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.box{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 15px;
+    color: black;
+}
+
+.common-number{
+    background-color: #1389B2;
+}
+
+.three{
+    background-color: #0BD6A1;
+}
+.five{
+    background-color: #FFD166;
+}
+.three-five{
+    background-color: #F0466F;
+}
